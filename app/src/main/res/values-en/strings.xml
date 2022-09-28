@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">convert temperatures 22 23</string>
+    <string name="txt_titulo">convert temperatures</string>
+    <string name="txt_ayuda_centigrados">Temperatura en grados centigrados</string>
+
+</resources>

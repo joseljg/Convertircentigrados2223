@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Convertir centigrados 22 23</string>
+    <string name="txt_titulo">Conversor de Temperaturas</string>
+    <string name="txt_ayuda_centigrados">Temperatura en grados centigrados</string>
+    <string name="titulo_boton_c">Convertir a kº y Fº</string>
+    <string name="resultado_kelvin">0 ºk</string>
+    <string name="resultado_farenheit">0º F</string>
+</resources>
