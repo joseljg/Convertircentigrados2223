@@ -3,7 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/workspace_android_22_23/Convertircentigrados2223/app/src/main/res/drawable/fondo_redondeado.xml" value="0.238" />
         <entry key="..\:/workspace_android_22_23/Convertircentigrados2223/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/workspace_android_22_23/Convertircentigrados2223/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.121" />
+        <entry key="..\:/workspace_android_22_23/Convertircentigrados2223/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.121" />
+        <entry key="..\:/workspace_android_22_23/Convertircentigrados2223/app/src/main/res/mipmap-anydpi-v26/mi_icono_temperatura.xml" value="0.121" />
       </map>
     </option>
   </component>
